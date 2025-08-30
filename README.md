@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Barack</h1>
-<h3 align="center">💻 Full-Stack Developer | 🚀 Software Engineer in the making | 🌍 ALX Software Engineering Learner</h3>
+<h3 align="center">💻 Full-Stack Developer | 🚀Copywriter | 🌍 ALX Software Engineering Learner</h3>
 <h4 align="center"><i>“Code to Freedom”</i></h4>
 
 -
